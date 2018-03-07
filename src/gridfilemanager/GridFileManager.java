@@ -1,13 +1,5 @@
 package gridfilemanager;
 
- /*
- * Sean Schlaefli
- * CS157B
- * Pollet
- * HW2
- * GridFileManager.java
- */
-
 import java.sql.*;
 import java.io.*;
 import java.util.*;

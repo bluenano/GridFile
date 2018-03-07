@@ -5,13 +5,6 @@
  */
 package gridfilemanager;
 
- /*
- * Sean Schlaefli
- * CS157B
- * Pollet
- * HW2
- * GridPoint.java
- */
 
 public class GridPoint {
     public float x;

@@ -5,13 +5,6 @@
  */
 package gridfilemanager;
 
- /*
- * Sean Schlaefli
- * CS157B
- * Pollet
- * HW2
- * GridRecord.java
- */
 
 public class GridRecord {
     public String label;
