@@ -91,7 +91,6 @@ public class GridFileManager {
     public GridRecord[] lookup(String fileName, GridPoint pt1, GridPoint pt2,
                                int limit_offset, int limit_count) {
         try {
-            //System.out.println("hi");
             GridRectangle rect = new GridRectangle(pt1, pt2);
             Statement stmt = conn.createStatement();
             ResultSet r = stmt.executeQuery(createGridFileSelect(fileName));
